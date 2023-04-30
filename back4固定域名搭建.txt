@@ -1,0 +1,22 @@
+
+
+	back4固定域名搭建
+
+	生成json
+	https://fscarmen.cloudflare.now.cc/
+
+	填写域名和json、更改UUID
+	
+	查看节点信息
+	/list
+
+	账户和密码
+	admin
+	password
+-------------------------------------------------------------------
+4-23github.com/jhytr1/khjuhj
+hjuytr.veong.tk:
+ {"AccountTag":"31ac9d8e183413b0a1f98aa5762e5f8d","TunnelSecret":"eE+aIDpWwss7e/WPs4clMlAxcJZ8BpUgIns/WvaVUoM=","TunnelID":"529ad2cd-6158-4ec5-a8fb-9107c7be7fc0"}
+
+
+	
